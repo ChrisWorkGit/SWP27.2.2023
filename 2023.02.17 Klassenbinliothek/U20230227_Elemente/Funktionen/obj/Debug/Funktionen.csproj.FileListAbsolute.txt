@@ -1,0 +1,8 @@
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\bin\Debug\Funktionen.dll
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\bin\Debug\Funktionen.pdb
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\obj\Debug\Funktionen.csproj.CoreCompileInputs.cache
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\obj\Debug\Funktionen.dll
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\obj\Debug\Funktionen.pdb
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\obj\Debug\Funktionen.SollHaben.resources
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\obj\Debug\Funktionen.csproj.GenerateResource.cache
+K:\SWP\2023.02.17 Klassenbinliothek\U20230227_Elemente\Funktionen\obj\Debug\Funktionen.csprojAssemblyReference.cache
